@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vtasks-venturing.github.io/docs-l6n14p/sitemap.xml
